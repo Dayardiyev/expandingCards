@@ -31,7 +31,7 @@ body{
 	flex: 0.5;
 	margin: 10px;
 	position: relative;
-	transition: all 0.7s;
+	transition: all 1s ease;
 }
 
 .panel h3{
@@ -46,7 +46,7 @@ body{
 }
 
 .panel.active{
-	flex: 5;
+	flex: 4.5;
 }
 
 .panel.active h3{
